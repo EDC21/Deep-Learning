@@ -19,10 +19,3 @@ fashion_mnist = keras.datasets.fashion_mnist
 (X_train_full, y_train_full), (X_test, y_test) = fashion_mnist.load_data()
 ```
 
-    Downloading data from https://storage.googleapis.com/tensorflow/tf-keras-datasets/train-images-idx3-ubyte.gz
-       16384/26421880 [..............................] - ETA: 14:52
-
-
-```python
-
-```
